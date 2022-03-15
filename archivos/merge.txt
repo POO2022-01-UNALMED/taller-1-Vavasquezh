@@ -1,1 +1,3 @@
-github no permite hacer commit de una carpeta completamente vacia.
+Valeria Vasquez Hernandez
+21
+Aprender y mejorar mis conocimientos sobre la programcaion y sobretodo dirigida a los objetos.
