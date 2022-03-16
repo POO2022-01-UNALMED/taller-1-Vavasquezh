@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Valeria Vasquez Hernandez
 21
 Aprender y mejorar mis conocimientos sobre la programcaion y sobretodo dirigida a los objetos.
-=======
-github ahora si permite hacer commit a la carpeta ya que tiene un archivo de respuesta.
->>>>>>> 2d75ea4a5354318b91401349553a41b8aa8c2bb7
