@@ -1,3 +1,5 @@
 Valeria Vasquez Hernandez
 21
 las apiraciones para esta materia son aprender y reforzar mis conocimientos sobre programacion, pero sobretodo orientada a objetos.
+ahora si se puede realizar un commit ya que contiene un documeto de texto llamado respuesta (no está vacio).
+Es importante tener cuidado al momento de modificar dos archivos al mismo tiempo ya que esto puede generar un conflicto y no nos permita hacer el merge en nuestro repositorio.
