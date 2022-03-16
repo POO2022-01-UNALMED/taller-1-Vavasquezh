@@ -1,0 +1,1 @@
+ahora si se puede realizar un commit ya que contiene un documeto de texto llamado respuesta (no está vacio).
